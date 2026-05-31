@@ -1,20 +1,19 @@
 # Python
-venv/
 __pycache__/
 *.pyc
+venv/
+backend/venv/
 
 # Database
-crm.db
+*.db
 
-# Node
+# React
 node_modules/
-
-# Environment Variables
-.env
+frontend/node_modules/
+dist/
 
 # VS Code
 .vscode/
 
-# Build Files
-dist/
-build/
+# Environment
+.env
