@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+crm.db
+
+# Node
+node_modules/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Build Files
+dist/
+build/
