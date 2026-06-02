@@ -198,7 +198,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Rohan Kshinde**
+**Rohan shinde**
 
 Post Graduate | Python Developer | Data Engineering Enthusiast
 
